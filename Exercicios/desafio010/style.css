@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, rgb(219, 116, 116), rgb(160, 157, 157),rgba(48, 10, 10, 0.582));/*é utilizada para fazer um degrade no site  */
+    height: 100%;
+    font-size: 15px;
+    text-align: justify;/* ele deixa as linhas do texto organizadas  */
+    
+
+}
+main{
+    background-color: white; /* é utilizada para colocar a cor do fundo no site */
+    border-radius: 10px; /* é utilizado para deixar as bordas redondas  */
+    box-shadow: 5px 5px 10px black;/* é utilizado do css para colocar sombra do site*/
+    width: 600px;/* utilizada para mudar a largura do site*/
+    padding:10px ;/* deixa tudo ajustado  */
+    margin: auto; /* para deixa centralizado, ou seja, ele centraliza no meio da tela,deixa no meio */
+}
+h1{
+      text-shadow: 1px 1px 2px black;/* é utilizado no site para colocar sombra nas letras*/
+    color: blue;/* é utilizado para colocar cor na letra*/
+    text-align: center;/*é utilizado para deixar o texto no centro*/
+}
+h2{
+    color: brown;/*utilizado para colocar cor na letra  */
+}
+
